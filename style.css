@@ -1,0 +1,25 @@
+hr{
+    border: 2px solid black;
+}
+h3{
+    text-align: center;
+}
+h1{
+    background-color: red;
+    width: 700px;
+    color:antiquewhite;
+    text-align: center;
+    margin-left: 150px;
+    margin-top: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+table{
+    border: 2px solid black;
+}
+p{
+    margin-left: 100px;
+}
+h2{
+    text-align: center;
+}
